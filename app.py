@@ -15,8 +15,8 @@ def my_output(query):
 
 #### UI Development using streamlit 
 
-st.set_page_config(page_title="SyncPro_BOT")
-st.header("SyncPro_BOT") 
+st.set_page_config(page_title="NextGen_Bot")
+st.header("NextGen_Bot") 
 input = st.text_input("Input " , key = "input")  
 submit = st.button("Ask your query") 
 
